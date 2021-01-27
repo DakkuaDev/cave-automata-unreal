@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Dev\\Unreal\\cave-automata\\CaveAutomataUE4\\Source\\CaveAutomataUE4\\CaveAutomataUE4.Build.cs",
+		"D:\\Dev\\Unreal\\cave-automata\\CaveAutomataUE4\\Source\\CaveAutomataUE4.Target.cs",
+		"D:\\Dev\\Unreal\\cave-automata\\CaveAutomataUE4\\Source\\CaveAutomataUE4Editor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

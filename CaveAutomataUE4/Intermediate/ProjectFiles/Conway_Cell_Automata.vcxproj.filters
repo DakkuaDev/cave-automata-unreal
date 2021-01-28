@@ -35,12 +35,6 @@
     <ClInclude Include="..\..\Source\Conway_Cell_Automata\CellClass.h">
       <Filter>Source\Conway_Cell_Automata</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\Conway_Cell_Automata\ConwayAutomata.cpp">
-      <Filter>Source\Conway_Cell_Automata</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\Conway_Cell_Automata\ConwayAutomata.h">
-      <Filter>Source\Conway_Cell_Automata</Filter>
-    </ClInclude>
     <None Include="..\..\Source\Conway_Cell_Automata\Conway_Cell_Automata.Build.cs">
       <Filter>Source\Conway_Cell_Automata</Filter>
     </None>
@@ -48,6 +42,16 @@
       <Filter>Source\Conway_Cell_Automata</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Conway_Cell_Automata\Conway_Cell_Automata.h">
+      <Filter>Source\Conway_Cell_Automata</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Conway_Cell_Automata\MapGenerator.cpp">
+      <Filter>Source\Conway_Cell_Automata</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Conway_Cell_Automata\MapGenerator.h">
       <Filter>Source\Conway_Cell_Automata</Filter>
     </ClInclude>
   </ItemGroup>

@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeConway_Cell_Automata_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xF775BA44,
+				0xCB9099A2,
 				0xAE5239F0,
 				METADATA_PARAMS(nullptr, 0)
 			};

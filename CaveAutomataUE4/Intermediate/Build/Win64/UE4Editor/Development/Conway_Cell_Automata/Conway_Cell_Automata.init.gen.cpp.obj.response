@@ -230,8 +230,8 @@
 /I Runtime\Experimental\GeometryCollectionSimulationCore\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I C:\Users\danie\Desktop\Cave_Automata_v1\Intermediate\Build\Win64\UE4Editor\Inc\Conway_Cell_Automata
-/I C:\Users\danie\Desktop\Cave_Automata_v1\Source
+/I D:\Dev\Unreal\cave-automata\CaveAutomataUE4\Intermediate\Build\Win64\UE4Editor\Inc\Conway_Cell_Automata
+/I D:\Dev\Unreal\cave-automata\CaveAutomataUE4\Source
 /I ..\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4Editor\Inc\Paper2D
 /I ..\Plugins\2D\Paper2D\Source
 /I ..\Plugins\2D\Paper2D\Source\Paper2D\Classes
@@ -265,12 +265,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\danie\Desktop\Cave_Automata_v1\Intermediate\Build\Win64\Conway_Cell_AutomataEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\danie\Desktop\Cave_Automata_v1\Intermediate\Build\Win64\Conway_Cell_AutomataEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\danie\Desktop\Cave_Automata_v1\Intermediate\Build\Win64\Conway_Cell_AutomataEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\danie\Desktop\Cave_Automata_v1\Intermediate\Build\Win64\UE4Editor\Inc\Conway_Cell_Automata\Conway_Cell_Automata.init.gen.cpp"
-/FI"C:\Users\danie\Desktop\Cave_Automata_v1\Intermediate\Build\Win64\UE4Editor\Development\Conway_Cell_Automata\Definitions.Conway_Cell_Automata.h"
-/Fo"C:\Users\danie\Desktop\Cave_Automata_v1\Intermediate\Build\Win64\UE4Editor\Development\Conway_Cell_Automata\Conway_Cell_Automata.init.gen.cpp.obj"
+/FI"D:\Dev\Unreal\cave-automata\CaveAutomataUE4\Intermediate\Build\Win64\Conway_Cell_AutomataEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\Dev\Unreal\cave-automata\CaveAutomataUE4\Intermediate\Build\Win64\Conway_Cell_AutomataEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\Dev\Unreal\cave-automata\CaveAutomataUE4\Intermediate\Build\Win64\Conway_Cell_AutomataEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\Dev\Unreal\cave-automata\CaveAutomataUE4\Intermediate\Build\Win64\UE4Editor\Inc\Conway_Cell_Automata\Conway_Cell_Automata.init.gen.cpp"
+/FI"D:\Dev\Unreal\cave-automata\CaveAutomataUE4\Intermediate\Build\Win64\UE4Editor\Development\Conway_Cell_Automata\Definitions.Conway_Cell_Automata.h"
+/Fo"D:\Dev\Unreal\cave-automata\CaveAutomataUE4\Intermediate\Build\Win64\UE4Editor\Development\Conway_Cell_Automata\Conway_Cell_Automata.init.gen.cpp.obj"
 /TP
 /GR-
 /W4

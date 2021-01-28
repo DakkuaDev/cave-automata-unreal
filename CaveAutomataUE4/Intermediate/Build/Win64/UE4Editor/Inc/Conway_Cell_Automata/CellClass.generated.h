@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define CONWAY_CELL_AUTOMATA_CellClass_generated_h
 
-#define Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_SPARSE_DATA
-#define Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_RPC_WRAPPERS
-#define Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_RPC_WRAPPERS_NO_PURE_DECLS
-#define Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_INCLASS_NO_PURE_DECLS \
+#define CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_SPARSE_DATA
+#define CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_RPC_WRAPPERS
+#define CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_RPC_WRAPPERS_NO_PURE_DECLS
+#define CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesACellClass(); \
 	friend struct Z_Construct_UClass_ACellClass_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(ACellClass)
 
 
-#define Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_INCLASS \
+#define CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_INCLASS \
 private: \
 	static void StaticRegisterNativesACellClass(); \
 	friend struct Z_Construct_UClass_ACellClass_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(ACellClass)
 
 
-#define Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_STANDARD_CONSTRUCTORS \
+#define CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ACellClass(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ACellClass) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_ENHANCED_CONSTRUCTORS \
+#define CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ACellClass(ACellClass&&); \
@@ -58,28 +58,28 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ACellClass); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ACellClass)
 
 
-#define Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_PRIVATE_PROPERTY_OFFSET
-#define Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_10_PROLOG
-#define Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_GENERATED_BODY_LEGACY \
+#define CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_PRIVATE_PROPERTY_OFFSET
+#define CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_10_PROLOG
+#define CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_PRIVATE_PROPERTY_OFFSET \
-	Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_SPARSE_DATA \
-	Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_RPC_WRAPPERS \
-	Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_INCLASS \
-	Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_STANDARD_CONSTRUCTORS \
+	CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_PRIVATE_PROPERTY_OFFSET \
+	CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_SPARSE_DATA \
+	CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_RPC_WRAPPERS \
+	CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_INCLASS \
+	CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_GENERATED_BODY \
+#define CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_PRIVATE_PROPERTY_OFFSET \
-	Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_SPARSE_DATA \
-	Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_INCLASS_NO_PURE_DECLS \
-	Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h_13_ENHANCED_CONSTRUCTORS \
+	CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_PRIVATE_PROPERTY_OFFSET \
+	CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_SPARSE_DATA \
+	CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_INCLASS_NO_PURE_DECLS \
+	CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -87,7 +87,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> CONWAY_CELL_AUTOMATA_API UClass* StaticClass<class ACellClass>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Cave_Automata_v1_Source_Conway_Cell_Automata_CellClass_h
+#define CURRENT_FILE_ID CaveAutomataUE4_Source_Conway_Cell_Automata_CellClass_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

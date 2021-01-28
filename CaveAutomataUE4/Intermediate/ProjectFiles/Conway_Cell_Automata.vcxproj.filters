@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Conway_Cell_Automata.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{96F730FE-33EF-42D7-94E5-505CB43EAEB9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Conway_Cell_Automata.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Conway_Cell_AutomataEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{91C49312-F12D-4473-8773-D798B18C179D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Conway_Cell_Automata">
+      <UniqueIdentifier>{D4558DC5-D1B0-477C-97ED-4A295934D9ED}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Conway_Cell_Automata\CellClass.cpp">
+      <Filter>Source\Conway_Cell_Automata</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Conway_Cell_Automata\CellClass.h">
+      <Filter>Source\Conway_Cell_Automata</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Conway_Cell_Automata\ConwayAutomata.cpp">
+      <Filter>Source\Conway_Cell_Automata</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Conway_Cell_Automata\ConwayAutomata.h">
+      <Filter>Source\Conway_Cell_Automata</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Conway_Cell_Automata\Conway_Cell_Automata.Build.cs">
+      <Filter>Source\Conway_Cell_Automata</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Conway_Cell_Automata\Conway_Cell_Automata.cpp">
+      <Filter>Source\Conway_Cell_Automata</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Conway_Cell_Automata\Conway_Cell_Automata.h">
+      <Filter>Source\Conway_Cell_Automata</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,13 +1,13 @@
 {
 	"Targets": [
 		{
-			"Name": "CaveAutomataUE4",
-			"Path": "D:\\Dev\\Unreal\\cave-automata\\CaveAutomataUE4\\Source\\CaveAutomataUE4.Target.cs",
+			"Name": "Conway_Cell_Automata",
+			"Path": "C:\\Users\\danie\\Desktop\\Cave_Automata_v1\\Source\\Conway_Cell_Automata.Target.cs",
 			"Type": "Game"
 		},
 		{
-			"Name": "CaveAutomataUE4Editor",
-			"Path": "D:\\Dev\\Unreal\\cave-automata\\CaveAutomataUE4\\Source\\CaveAutomataUE4Editor.Target.cs",
+			"Name": "Conway_Cell_AutomataEditor",
+			"Path": "C:\\Users\\danie\\Desktop\\Cave_Automata_v1\\Source\\Conway_Cell_AutomataEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

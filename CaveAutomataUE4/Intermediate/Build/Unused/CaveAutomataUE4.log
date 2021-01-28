@@ -1,6 +1,0 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Dev\Unreal\cave-automata).
-  Parsing headers for CaveAutomataUE4Editor
-    Running UnrealHeaderTool "D:\Dev\Unreal\cave-automata\CaveAutomataUE4\CaveAutomataUE4.uproject" "D:\Dev\Unreal\cave-automata\CaveAutomataUE4\Intermediate\Build\Win64\CaveAutomataUE4Editor\Development\CaveAutomataUE4Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\danie\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
-  Reflection code generated for CaveAutomataUE4Editor in 11,7345984 seconds
-  Target is up to date
-  Total execution time: 12,94 seconds
